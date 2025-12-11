@@ -292,7 +292,7 @@ This project is created for educational purposes as part of a System Analysis pr
 For questions or issues:
 
 - Open an issue on GitHub
-- Contact: your-email@example.com
+- Contact: puspitabaidya875@gmail.com
 
 ---
 
