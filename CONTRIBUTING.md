@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this project! 🎉
 - Include steps to reproduce
 - Include screenshots if applicable
 - Mention your environment (Windows version, SQL Server version, Visual Studio version)
-
+ 
 ### Suggesting Features
 
 - Open an issue with the "enhancement" label
